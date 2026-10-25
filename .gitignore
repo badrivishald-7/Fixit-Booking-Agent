@@ -1,0 +1,8 @@
+# Secrets and files made by the code
+.env
+bookings.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
